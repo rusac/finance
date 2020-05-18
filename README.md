@@ -1,5 +1,9 @@
 # finance
 
+## Glossary
+
+- [Investopedia - Dictionary](https://www.investopedia.com/financial-term-dictionary-4769738)
+
 ### Books
 
 - The Intelligent Investor - Graham
@@ -9,6 +13,7 @@
 
 - [Investment Foundations - CFA Institute](https://www.cfainstitute.org/en/programs/investment-foundations)
 - [Valuation - Aswath Damodaran](http://people.stern.nyu.edu/adamodar/New_Home_Page/webcastvalonline.htm)
+- [Introduction to Financial Accounting - Coursera(Wharton)](https://www.coursera.org/learn/wharton-accounting)
 
 ### People
 
