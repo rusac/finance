@@ -27,4 +27,7 @@
 - [/r/PersonalFinanceCanada](https://www.reddit.com/r/PersonalFinanceCanada)
 - [/r/SecurityAnalysis](https://www.reddit.com/r/SecurityAnalysis/)
 
+### Videos
+
+- [The Plain Bagel - finance, investing, etc.](https://www.youtube.com/channel/UCFCEuCsyWP0YkP3CZ3Mr01Q)
 
