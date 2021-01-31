@@ -37,7 +37,12 @@
 ### Earnings Schedule
 - [Earnings Calendar - eps.sh/cal](https://www.earningswhispers.com/calendar)
 
+### Stock info live tickers
+- [Yahoo Finance](https://finance.yahoo.com/)
+- [Marketwatch - incl afterhours](https://www.marketwatch.com/investing/stock/gme)
 
+### Short Info
+- various
 
 
 
