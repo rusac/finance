@@ -40,6 +40,7 @@
 ### Stock info live tickers
 - [Yahoo Finance](https://finance.yahoo.com/)
 - [Marketwatch - incl afterhours](https://www.marketwatch.com/investing/stock/gme)
+- [Orders by Fidelity customers](https://eresearch.fidelity.com/eresearch/gotoBL/fidelityTopOrders.jhtml)
 
 ### Short Info
 - various
