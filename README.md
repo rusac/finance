@@ -24,12 +24,13 @@
 - [Warren Buffett](https://www.berkshirehathaway.com/letters/letters.html)
 
 
-### Reddits
+### Reddits and websites
 
 - [/r/CanadianInvestor](https://www.reddit.com/r/CanadianInvestor)
 - [/r/PersonalFinanceCanada](https://www.reddit.com/r/PersonalFinanceCanada)
 - [/r/SecurityAnalysis](https://www.reddit.com/r/SecurityAnalysis/)
 - [/r/ValueInvesting](https://www.reddit.com/r/ValueInvesting)
+- https://www.financialwisdomforum.org/
 
 ### Videos
 
